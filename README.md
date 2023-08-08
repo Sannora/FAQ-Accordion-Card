@@ -1,7 +1,7 @@
 # FAQ-Accordion-Card
 Web challenge that I've completed using HTML, CSS and JQuery to test my JQuery skills that is a basic FAQ accordion card. Here's the link: https://vermillion-cupcake-3b4502.netlify.app
 
-~ A Comprehensive Summary of The Works Steps ~
+# ~ A Comprehensive Summary of The Works Steps ~
 
 - I've wrapped the FAQ card with a container ``div`` containing two ``sections``: One for the left hand side images and the other for the QnA part.
 
